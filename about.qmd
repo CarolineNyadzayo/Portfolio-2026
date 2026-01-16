@@ -1,0 +1,15 @@
+---
+title: "About Me"
+format: html
+---
+
+
+A senior marketing leader with extensive experience driving growth across complex, matrixed franchise systems. 
+Proven ability to translate global brand strategy into locally relevant execution across multi-brand, multi-market portfolios. 
+Recognized for strong stakeholder engagement, cross-functional leadership, and collaboration with bottlers, franchise teams, commercial partners, and agencies to deliver business objectives and sustainable growth.
+
+Caroline brings a wealth of cultural experience, transferable skills and personal drive; enjoying travel and new expereinces and having traveleld across 16 countries and lived in 3 continents.
+
+
+
+<img src="images/Wall mural.JPG" alt="Wall mural" style="width: 80%; border-radius: 10px;" />

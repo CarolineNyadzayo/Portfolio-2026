@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Caroline Nyadzayo | MBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: My-Portfolio.qmd
+        text: Portfolio
+      - href: Skills-and-Certifications.qmd
+        text: Skills
+      - href: Contact-Details.qmd
+        text: Contact
+      - href: My Resume.qmd
+        text: Resume
+  page-footer:
+    center: "© 2025 Caroline Nyadzayo"
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
